@@ -1,0 +1,48 @@
+.Top_nav_box{
+  background: '#fff';
+  padding: 0; 
+  margin: 0;
+  height: 0.3rem; 
+   line-height: 1;
+}
+.nav_left{
+  float: left;
+  padding: 0; 
+  margin: 0;
+   height: 100%;
+   width: auto;
+   text-align: center;
+}
+ .nav_left li{
+  font-size: 0.14rem;
+  line-height:2;
+  height: 100%;
+  vertical-align: middle;
+  margin-left:0.15rem;
+  padding:0.08rem;
+  float: left;
+  list-style: none;
+}
+/* .nav_left li a {
+
+  line-height: 0.3rem;
+  display: table-cell;
+  vertical-align: middle;
+}  */
+
+.nav_right{
+  float: right;
+  padding: 0; 
+  margin: 0;
+  height: 100%;
+}
+.nav_right li{
+  font-size: 0.14rem !important;
+  line-height: 1;
+  height: 100%;
+  vertical-align: middle;
+  margin-right:0.15rem;
+  padding:0.08rem;
+  float: right;
+  list-style: none;
+}
